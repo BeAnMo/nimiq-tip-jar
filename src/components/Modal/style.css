@@ -1,0 +1,10 @@
+.modal-fadeout {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s, opacity 1.0s linear;
+}
+
+.modal-fadein {
+  visibility: visible;
+  opacity: 1;
+}
